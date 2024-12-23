@@ -11,7 +11,7 @@ const options = {
     },
     servers: [
       {
-        url: 'http://localhost:5000', // Update this URL if your backend runs on a different port
+        url: 'https://fullstackprojectbackend-e1lg.onrender.com/', // Update this URL if your backend runs on a different port
       },
     ],
     components: {
